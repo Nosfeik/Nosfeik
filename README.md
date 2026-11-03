@@ -23,10 +23,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/blazepwn?tab=followers">
-    <img src="https://img.shields.io/github/followers/blazepwn?style=flat-square&color=58A6FF&label=Seguidores" alt="Seguidores en GitHub" />
+  <a href="https://github.com/Nosfeik?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nosfeik?style=flat-square&color=58A6FF&label=Seguidores" alt="Seguidores en GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=blazepwn&style=flat-square&label=Visitas&color=1F6FEB" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Nosfeik&style=flat-square&label=Visitas&color=1F6FEB" alt="Visitas al perfil" />
 </p>
 
 ## Sobre mí
@@ -74,7 +74,7 @@
  
   <img
     height="165"
-    src="https://streak-stats.demolab.com?user=blazepwn&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E"
+    src="https://streak-stats.demolab.com?user=Nosfeik&hide_border=true&background=00000000&stroke=30363D&ring=58A6FF&fire=F0883E&currStreakLabel=C9D1D9&sideNums=C9D1D9&currStreakNum=FFFFFF&sideLabels=8B949E&dates=8B949E"
     alt="GitHub streak"
   />
 </p>
