@@ -1,23 +1,23 @@
 <div align="center">
-  <img src="./assets/terminal-banner.svg" alt="blazepwn terminal banner" width="100%" />
+  <img src="./assets/terminal-banner.svg" alt="Nosfeik terminal banner" width="100%" />
   <br />
   <br />
-  <h1>blazepwn</h1>
+  <h1>Nosfeik</h1>
   <p>
     <strong>Emmanuel Aguilar Montaño</strong><br />
     <sub>Ingeniero en Redes Inteligentes y Ciberseguridad · Pentesting · Linux · Redes</sub><br />
-    <sub>Escribiendo contenido técnico en español en <a href="https://blazepwn.com/">blazepwn.com</a></sub>
+    <sub>Escribiendo contenido técnico en español en <a href="https://Nosfeik.com/">Nosfeik.com</a></sub>
   </p>
 </div>
 
 <p align="center">
-  <a href="https://blazepwn.com/">
-    <img src="https://img.shields.io/badge/Sitio-blazepwn.com-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58A6FF" alt="Sitio web" />
+  <a href="https://Nosfeik.com/">
+    <img src="https://img.shields.io/badge/Sitio-Nosfeik.com-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58A6FF" alt="Sitio web" />
   </a>
-  <a href="https://blazepwn.com/about/">
+  <a href="https://Nosfeik.com/about/">
     <img src="https://img.shields.io/badge/Perfil-sobre%20mi-0D1117?style=for-the-badge&logoColor=79C0FF" alt="Perfil" />
   </a>
-  <a href="https://blazepwn.com/rss.xml">
+  <a href="https://Nosfeik.com/rss.xml">
     <img src="https://img.shields.io/badge/RSS-suscr%C3%ADbete-0D1117?style=for-the-badge&logo=rss&logoColor=F0883E" alt="RSS" />
   </a>
 </p>
@@ -46,23 +46,23 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://blazepwn.com/posts/dotfiles/">Mis dotfiles</a></td>
+      <td><a href="https://Nosfeik.com/posts/dotfiles/">Mis dotfiles</a></td>
       <td>Personalización, terminal y entorno de trabajo</td>
     </tr>
     <tr>
-      <td><a href="https://blazepwn.com/posts/full-tty/">Tratamiento de la TTY</a></td>
+      <td><a href="https://Nosfeik.com/posts/full-tty/">Tratamiento de la TTY</a></td>
       <td>Estabilización de shells y post-explotación</td>
     </tr>
     <tr>
-      <td><a href="https://blazepwn.com/posts/nmap-service-enumeration/">Nmap - Enumeración de Servicios</a></td>
+      <td><a href="https://Nosfeik.com/posts/nmap-service-enumeration/">Nmap - Enumeración de Servicios</a></td>
       <td>Reconocimiento y enumeración de servicios</td>
     </tr>
     <tr>
-      <td><a href="https://blazepwn.com/posts/nmap-firewall-ids-ips-evasion/">Nmap - Firewall IDS/IPS Evasion</a></td>
+      <td><a href="https://Nosfeik.com/posts/nmap-firewall-ids-ips-evasion/">Nmap - Firewall IDS/IPS Evasion</a></td>
       <td>Evasión y escaneo más sigiloso</td>
     </tr>
     <tr>
-      <td><a href="https://blazepwn.com/posts/ansible/">Controla Servidores Ubuntu con Ansible y Playbooks</a></td>
+      <td><a href="https://Nosfeik.com/posts/ansible/">Controla Servidores Ubuntu con Ansible y Playbooks</a></td>
       <td>Automatización operativa y administración</td>
     </tr>
   </tbody>
